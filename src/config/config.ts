@@ -1,0 +1,2 @@
+export const MONGODB_URI=process.env.NEXT_PUBLIC_MONGODB_URI
+export const JWT_SECRET=process.env.NEXT_PUBLIC_JWT_SECRET
